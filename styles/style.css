@@ -1,0 +1,24 @@
+p {
+  color: red;
+font-size: 50px
+}
+html {
+  font-size: 16px;
+ font-family: "Open Sans", sans-serif;
+}
+
+html {
+  background-color: #d5bdaf;
+}
+body {
+  width: 1000px;
+  margin: 0 auto;
+  background-color: #dad7cd;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
